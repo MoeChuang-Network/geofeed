@@ -18,3 +18,6 @@
 2a13:df80:7cc0::/44,SG,SG-01,Singapore,499940
 2a13:df80:7cd0::/44,CH,CH-ZH,Zurich,
 2a13:df80:7ce0::/44,US,US-OR,Oregon,97814
+45.158.59.0/24,SG,SG-01,Singapore,499940
+89.213.219.0/24,HK,,Kowloon,
+163.5.148.0/24,JP,JP-13,Tokyo,197-0826
