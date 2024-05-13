@@ -2,9 +2,9 @@
 # Email: admin@duocloud.net,,,,
 # Last Updated: 2024-05-12 21:22:40,,,,
 # IPV6 Subnet 2a13:df80:7c00::/40 Server usage,,,,
-2a11:29c0:35::/48,HK,,Kowloon,
-2a13:df80:7c00::/44,HK,,Kowloon,
-2a13:df80:7c10::/44,HK,,Kowloon,
+2a11:29c0:35::/48,HK,,Kowloon,999077
+2a13:df80:7c00::/44,HK,,Kowloon,999077
+2a13:df80:7c10::/44,HK,,Kowloon,999077
 2a13:df80:7c20::/44,TW,TW-TPE,Taipei City,104001
 2a13:df80:7c30::/44,JP,JP-13,Tokyo,197-0826
 2a13:df80:7c40::/44,US,US-OR,Oregon,97814
@@ -19,5 +19,5 @@
 2a13:df80:7cd0::/44,CH,CH-ZH,Zurich,
 2a13:df80:7ce0::/44,US,US-OR,Oregon,97814
 45.158.59.0/24,SG,SG-01,Singapore,499940
-89.213.219.0/24,HK,,Kowloon,
+89.213.219.0/24,HK,,Kowloon,999077
 163.5.148.0/24,JP,JP-13,Tokyo,197-0826
