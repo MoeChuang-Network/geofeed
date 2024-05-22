@@ -18,6 +18,16 @@
 2a13:df80:7cc0::/44,SG,SG-01,Singapore,499940
 2a13:df80:7cd0::/44,CH,CH-ZH,Zurich,
 2a13:df80:7ce0::/44,US,US-OR,Oregon,97814
+# IPV6 Subnet 2a13:82c4:fc00::/40 Server usage,,,,
+2a13:82c4:fc00::/44,HK,,Kowloon,999077
+2a13:82c4:fc10::/44,JP,JP-13,Tokyo,197-0826
+2a13:82c4:fc20::/44,SG,SG-01,Singapore,499940
+2a13:82c4:fc30::/44,GB,GB-ENG,England,CM22
+2a13:82c4:fc40::/44,US,US-OR,Oregon,97814
+2a13:82c4:fc50::/44,TW,TW-TPE,Taipei City,104001
+2a13:82c4:fc60::/44,FR,FR-01,Ain,1680
+2a13:82c4:fc70::/44,CA,CA-ON,Ontario,M3B
+2a13:82c4:fc80::/44,DE,DE-BE,Berlin,10178
 # IPV4 Subnet Server usage,,,,
 45.158.59.0/24,SG,SG-01,Singapore,499940
 89.213.219.0/24,HK,,Kowloon,999077
