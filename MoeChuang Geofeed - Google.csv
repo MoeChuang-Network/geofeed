@@ -12,3 +12,35 @@
 2a13:82c3::/32,HK,,Kowloon,999077
 82.153.157.0/24,GB,GB-ENG,England,CM22
 2a13:82c4:fc30::/44,GB,GB-ENG,England,CM22
+2a13:82c4:ff00::/48,AF,AF-KAN,Kandahar,3859
+2a13:82c4:ff01::/48,AM,AM-GR,Garhwal,65120
+2a13:82c4:ff02::/48,AZ,AZ-NX,Nakhchivan,6827
+2a13:82c4:ff03::/48,BH,BH-13,Capital Province,973
+2a13:82c4:ff04::/48,BD,BD-A,Barisal,103
+2a13:82c4:ff05::/48,BT,,Bhutan,
+2a13:82c4:ff06::/48,BN,,Brunei Darussalam,
+2a13:82c4:ff07::/48,KH,,Cambodia,
+2a13:82c4:ff08::/48,CX,,Christmas Island,
+2a13:82c4:ff09::/48,CC,,Cocos (Keeling) Islands,
+2a13:82c4:ff0a::/48,CY,CY-01,Nicosia District,1010
+2a13:82c4:ff0b::/48,EG,,Egypt,999060
+2a13:82c4:ff0c::/48,GE,,Georgia,100
+2a13:82c4:ff0d::/48,IN,IN-AP,andhra pradesh,524001
+2a13:82c4:ff0e::/48,ID,ID-AC,Aceh,24111
+2a13:82c4:ff0f::/48,IR,,Iran,
+2a13:82c4:ff10::/48,IQ,,Iraq,
+2a13:82c4:ff11::/48,PS,,Palestine,
+2a13:82c4:ff12::/48,JO,,Jordan,
+2a13:82c4:ff13::/48,KZ,,Kazakhstan,
+2a13:82c4:ff14::/48,KP,KP-01,Pyongyang,999093
+2a13:82c4:ff15::/48,KR,KR-11,Seoul,136
+2a13:82c4:ff16::/48,KW,,Kuwait,
+2a13:82c4:ff17::/48,KG,,Kyrgyzstan,
+2a13:82c4:ff18::/48,LA,,Laos,
+2a13:82c4:ff19::/48,LB,,Lebanon,
+2a13:82c4:ff1a::/48,MO,,Macau,
+2a13:82c4:ff1b::/48,MY,MY-14,Kuala Lumpur,43200
+2a13:82c4:ff1c::/48,MV,,Maldives,
+2a13:82c4:ff1d::/48,MN,,Mongolia,
+2a13:82c4:ff1e::/48,MM,,Myanmar,
+2a13:82c4:ff1f::/48,NP,,Nepal,
