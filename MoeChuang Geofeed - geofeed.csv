@@ -29,6 +29,7 @@
 2a13:82c4:fc70::/44,CA,CA-ON,Ontario,M3B
 2a13:82c4:fc80::/44,DE,DE-BE,Berlin,10178
 2a13:82c4:fc90::/44,GB,GB-ENG,England,CM22
+2a13:82c4:fca0::/44,HK,,Kowloon,999077
 # IPV4 Subnet Server usage,,,,
 45.158.59.0/24,SG,SG-01,Singapore,499940
 89.213.219.0/24,HK,,Kowloon,999077
@@ -36,6 +37,7 @@
 82.153.157.0/24,GB,GB-ENG,England,CM22
 23.94.129.0/24,US,US-OR,Oregon,97814
 80.93.203.0/24,GB,GB-ENG,England,CM22
+5.83.221.0/24,HK,,Kowloon,999077
 # IPV6 Subnet 2a13:82c4:ff00::/40 Server usage,,,,
 2a13:82c4:ff00::/48,AF,AF-KAN,Kandahar,3859
 2a13:82c4:ff01::/48,AM,AM-GR,Garhwal,65120
